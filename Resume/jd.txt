@@ -1,0 +1,24 @@
+Job Title: Python Developer
+
+We are looking for a highly skilled Python Developer to join our dynamic team. The ideal candidate should have strong knowledge of backend development and experience working with web frameworks.
+
+Key Responsibilities:
+- Develop, test, and maintain backend APIs using Python and Django/Flask
+- Work with databases such as MySQL, PostgreSQL, or MongoDB
+- Collaborate with front-end developers to integrate user-facing elements
+- Write clean, maintainable, and well-documented code
+- Use Git for version control and participate in code reviews
+
+Required Skills:
+- Proficient in Python
+- Experience with Django or Flask frameworks
+- Strong understanding of RESTful APIs
+- Familiarity with SQL and NoSQL databases
+- Knowledge of version control systems like Git
+- Good problem-solving and communication skills
+
+Preferred:
+- Exposure to cloud platforms (AWS, GCP)
+- Familiarity with Docker or CI/CD pipelines
+
+Experience: 2+ years in software development using Python
